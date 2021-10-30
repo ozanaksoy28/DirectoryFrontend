@@ -1,0 +1,38 @@
+.table{
+                  width: 30%;
+}
+.search,.info{
+                  width: 100%;
+                  display: flex;
+                  justify-content: center;
+}
+.form-control{
+                  width: 500px;
+}
+.btnGroup{
+                  width: fit-content;
+                  margin-left: auto;
+}
+button{
+                  margin-right: 1em;
+}
+.fa{
+                  transition: 0.3s;
+}
+.bi:hover{
+                  color: #FFD371;
+}
+.bi-star-fill{
+                  color: #FFD371;
+                  
+}
+.bi-star-fill:hover{
+                  
+                  color: grey;
+                  
+}
+.person-line:hover{
+                  cursor: pointer;
+                  
+}
+

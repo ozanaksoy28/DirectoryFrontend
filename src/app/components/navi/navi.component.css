@@ -1,0 +1,35 @@
+
+.container-fluid{
+                  display: flex;
+                  flex-direction: row;
+                  justify-content: center;
+                  
+}
+.navbar-brand{
+                  transition: 0.3s;
+                  z-index: 1;
+                  font-size: 24px;
+                  
+}
+.navbar-brand:hover{
+                  color: red;
+                  cursor: default;
+}
+.fa{
+                  color: green;
+                  font-size: 30px;
+                  margin-right: 10px;
+                  transition: 0.5s;
+                  font-size: 40px;
+                  
+                  
+}
+.cu{
+                  width: 100%;
+                  position: absolute;
+                  display: flex;
+                  justify-content: flex-end;
+}
+.fa:hover{
+                  color: greenyellow;
+}
